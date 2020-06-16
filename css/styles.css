@@ -1,0 +1,44 @@
+html {
+    font-family: 'Playfair Display', serif;
+}
+body {
+    max-width: 320px;
+    margin: 0 auto;
+    color: #333;
+}
+img {
+    border-radius: 50%;
+    width: 5em;
+    height: auto;
+}
+h1 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 0;
+}
+p {
+    font-weight: 400;
+}
+header {
+    text-align: center;
+    margin: 3rem 0;
+}
+header p {
+    margin: 0;
+    font: 0.8rem Arial, Helvetica, sans-serif;
+    color: #666;
+}
+nav {
+    margin: 0 0 3rem;
+}
+nav ul {
+    font: 0.85rem/1.2rem Arial, Helvetica, sans-serif;
+
+}
+footer {
+    font: 0.9rem Arial, Helvetica, sans-serif;
+    color: #666;
+    text-align: center;
+    border-top: 1px solid #f0f0f0;
+    padding-top: 1.5em;
+}
